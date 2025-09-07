@@ -7,17 +7,13 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayannikhare&show_icons=true&theme=tokyonight" alt="stats graph" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nayannikhare&theme=tokyonight" alt="streak graph" />
-</p>
+![Nayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayan0406&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayannikhare&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan0406&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nayan0406&theme=radical)](https://git.io/streak-stats)
+
 
 ---
 
