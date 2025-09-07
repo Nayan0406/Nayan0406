@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Nayan Nikhare](https://github.com/nayannikhare)  
+# Hi there 👋, I'm [Nayan Nikhare](https://github.com/Nayan0406)  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6F61&width=500&lines=Passionate+MERN+Stack+Developer;Always+learning+new+things;Building+cool+projects+with+code" alt="Typing SVG" />
