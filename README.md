@@ -28,7 +28,7 @@
 
 ## 🌐 Connect With Me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-nikhare-127a10244/)  
-[![Upwork Badge](https://img.shields.io/badge/-Upwork-success?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~YOUR-UPWORK-ID)
+[![Upwork Badge](https://img.shields.io/badge/-Upwork-success?style=flat&logo=upwork&logoColor=white)]([https://www.upwork.com/freelancers/~YOUR-UPWORK-ID](https://www.upwork.com/freelancers/~01e8cdb08f57dc29e9))
 
 ---
 
