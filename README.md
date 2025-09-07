@@ -1,5 +1,6 @@
-# Hi 👋! My name is Nayan Nikhare  
-### 🚀 Passionate MERN Stack Developer  
+<p align="center">
+  <img src="BANNER-LINK-HERE" alt="Nayan Nikhare | MERN Stack Developer" />
+</p>
 
 ---
 
