@@ -1,8 +1,5 @@
-# Hi there 👋, I'm [Nayan Nikhare](https://github.com/nayannikhare)  
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6F61&width=500&lines=Passionate+MERN+Stack+Developer;Always+learning+new+things;Building+cool+projects+with+code" alt="Typing SVG" />
-</p>
+# Hi 👋! My name is Nayan Nikhare  
+### 🚀 Passionate MERN Stack Developer  
 
 ---
 
@@ -13,7 +10,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan0406&layout=compact&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nayan0406&theme=radical)](https://git.io/streak-stats)
-
 
 ---
 
@@ -31,20 +27,13 @@
 ---
 
 ## 🌐 Connect With Me
-[![Linkedin Badge](https://img.shields.io/badge/-Nayan%20Nikhare-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)  
-[![Upwork Badge](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~YOUR-UPWORK)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-nikhare-127a10244/)  
+[![Upwork Badge](https://img.shields.io/badge/-Upwork-success?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~YOUR-UPWORK-ID)
 
 ---
 
 ## ⚡ Fun Section
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300" />
-</p>
-
----
-
-## 👀 Profile Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nayannikhare&label=Profile%20Views&color=0e75b6&style=flat" alt="Nayan Nikhare" />
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" />  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </p>
