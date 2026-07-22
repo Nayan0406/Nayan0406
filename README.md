@@ -1,42 +1,191 @@
-# Hi there 👋, I'm [Nayan Nikhare](https://github.com/Nayan0406)  
+<h1 align="center">Hi 👋, I'm Nayan Nikhare</h1>
+
+<h3 align="center">
+🚀 Full Stack Developer | MERN Stack | AI Enthusiast | Cloud Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6F61&width=500&lines=Passionate+MERN+Stack+Developer;Always+learning+new+things;Building+cool+projects+with+code" alt="Typing SVG" />
-</p
-
----
-
-## 📊 GitHub Stats
-
-![Nayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayan0406&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan0406&layout=compact&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nayan0406&theme=radical)](https://git.io/streak-stats)
-
----
-
-## 💻 Tech Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+Express;Building+AI+Applications;Always+Learning+New+Things"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nayan-nikhare-127a10244/)  
-[![Upwork Badge](https://img.shields.io/badge/-Upwork-success?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e8cdb08f57dc29e9)
+# 🚀 About Me
+
+- 💻 Full Stack Developer specializing in MERN Stack
+- 🤖 Currently building AI Powered Applications
+- 🌱 Learning Cloud Computing, Docker & Kubernetes
+- 🎯 Looking for Full Time Software Developer Opportunities
+- ⚡ Passionate about solving real-world problems with technology
+- 📍 India
 
 ---
 
-## ⚡ Fun Section
+# 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" />  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Nayan0406">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,postgres,prisma,python,tailwind,git,github,vscode,firebase,docker,aws"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nayan0406&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayan0406&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nayan0406&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayan0406&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nayan0406&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Voice Assistant | AI Assistant using Python, FastAPI & React |
+| 🚆 IRCTC Clone | Full Stack Railway Booking Platform |
+| 📄 AI Resume Analyzer | Resume ATS Analyzer with AI |
+| 🏢 ERP System | Enterprise Resource Planning System |
+| 🛍️ Antariksh Silk | Ecommerce Platform |
+
+---
+
+# 🛠 Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,mysql,python,js,tailwind,git,github,vscode,aws,docker"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+```text
+✔ Artificial Intelligence
+✔ Machine Learning
+✔ Cloud Computing
+✔ Docker
+✔ Kubernetes
+✔ System Design
+✔ Microservices
+```
+
+---
+
+# 💼 Experience
+
+### MERN Stack Developer Intern
+
+🏢 Tars Technology
+
+- Developed real-world web applications
+- Built REST APIs
+- Worked on Authentication
+- Integrated Payment Gateway
+- Optimized Database Queries
+- Collaborated with Team
+
+---
+
+# 📈 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/Nayan0406">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+> **"First, solve the problem. Then, write the code."**
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Nayan0406&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+</p>
+
+---
+
+# ⭐ Support
+
+If you like my work, don't forget to ⭐ my repositories.
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+
 </p>
