@@ -112,21 +112,6 @@
 
 </p>
 
----
-
-# 📚 Currently Learning
-
-```text
-✔ Artificial Intelligence
-✔ Machine Learning
-✔ Cloud Computing
-✔ Docker
-✔ Kubernetes
-✔ System Design
-✔ Microservices
-```
-
----
 
 # 💼 Experience
 
