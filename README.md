@@ -14,7 +14,6 @@
 
 - 💻 Full Stack Developer specializing in MERN Stack
 - 🤖 Currently building AI Powered Applications
-- 🌱 Learning Cloud Computing, Docker & Kubernetes
 - 🎯 Looking for Full Time Software Developer Opportunities
 - ⚡ Passionate about solving real-world problems with technology
 - 📍 India
