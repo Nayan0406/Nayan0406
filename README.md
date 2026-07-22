@@ -114,8 +114,6 @@
 
 ---
 
----
-
 # 💼 Experience
 
 ### MERN Stack Developer Intern
