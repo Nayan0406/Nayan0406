@@ -108,10 +108,13 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,mysql,python,js,tailwind,git,github,vscode,aws,docker"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,mysql,python,js,tailwind,git,github,vscode"/>
 
 </p>
 
+---
+
+---
 
 # 💼 Experience
 
